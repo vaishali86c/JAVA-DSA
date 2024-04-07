@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-FirstJavaProgram/01-FirstJavaProgram.iml" filepath="$PROJECT_DIR$/01-FirstJavaProgram/01-FirstJavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-DsaMath/02-DsaMath.iml" filepath="$PROJECT_DIR$/02-DsaMath/02-DsaMath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-ConditionalAndLoops/03-ConditionalAndLoops.iml" filepath="$PROJECT_DIR$/03-ConditionalAndLoops/03-ConditionalAndLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Functions/04-Functions.iml" filepath="$PROJECT_DIR$/04-Functions/04-Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Array/05-Array.iml" filepath="$PROJECT_DIR$/05-Array/05-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-LinkedList/07-LinkedList.iml" filepath="$PROJECT_DIR$/07-LinkedList/07-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Oops/08-Oops.iml" filepath="$PROJECT_DIR$/08-Oops/08-Oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Queue/09-Queue.iml" filepath="$PROJECT_DIR$/09-Queue/09-Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Stack/10-Stack.iml" filepath="$PROJECT_DIR$/10-Stack/10-Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Recursion/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/06-Recursion/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_practice/src/DSA_practice.iml" filepath="$PROJECT_DIR$/DSA_practice/src/DSA_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_practice/DSA_practice1.iml" filepath="$PROJECT_DIR$/DSA_practice/DSA_practice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Recursion/IntroductionToRecursion/IntroductionToRecursion.iml" filepath="$PROJECT_DIR$/06-Recursion/IntroductionToRecursion/IntroductionToRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-DSA.iml" filepath="$PROJECT_DIR$/.idea/JAVA-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Recursion/Recursion_Array/Recursion_Array.iml" filepath="$PROJECT_DIR$/06-Recursion/Recursion_Array/Recursion_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Recursion/Recursion_Level1_Qus/Recursion_Level1_Qus.iml" filepath="$PROJECT_DIR$/06-Recursion/Recursion_Level1_Qus/Recursion_Level1_Qus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Recursion/Recursion_MergeSort_QuickSort/Recursion_MergeSort_QuickSort.iml" filepath="$PROJECT_DIR$/06-Recursion/Recursion_MergeSort_QuickSort/Recursion_MergeSort_QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Recursion/Recursion_Pattern/Recursion_Pattern.iml" filepath="$PROJECT_DIR$/06-Recursion/Recursion_Pattern/Recursion_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Recursion/Recursion_permutations/Recursion_permutations.iml" filepath="$PROJECT_DIR$/06-Recursion/Recursion_permutations/Recursion_permutations.iml" />
+    </modules>
+  </component>
+</project>

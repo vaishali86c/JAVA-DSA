@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/06-Recursion.iml" filepath="$PROJECT_DIR$/.idea/06-Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroductionToRecursion/IntroductionToRecursion.iml" filepath="$PROJECT_DIR$/IntroductionToRecursion/IntroductionToRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion_Array/Recursion_Array.iml" filepath="$PROJECT_DIR$/Recursion_Array/Recursion_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion_Level1_Qus/Recursion_Level1_Qus.iml" filepath="$PROJECT_DIR$/Recursion_Level1_Qus/Recursion_Level1_Qus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion_MergeSort_QuickSort/Recursion_MergeSort_QuickSort.iml" filepath="$PROJECT_DIR$/Recursion_MergeSort_QuickSort/Recursion_MergeSort_QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion_Pattern/Recursion_Pattern.iml" filepath="$PROJECT_DIR$/Recursion_Pattern/Recursion_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion_permutations/Recursion_permutations.iml" filepath="$PROJECT_DIR$/Recursion_permutations/Recursion_permutations.iml" />
+    </modules>
+  </component>
+</project>
