@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/06-Recursion/Recursion_MergeSort_QuickSort/Recursion_MergeSort_QuickSort.iml" filepath="$PROJECT_DIR$/06-Recursion/Recursion_MergeSort_QuickSort/Recursion_MergeSort_QuickSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-Recursion/Recursion_Pattern/Recursion_Pattern.iml" filepath="$PROJECT_DIR$/06-Recursion/Recursion_Pattern/Recursion_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-Recursion/Recursion_permutations/Recursion_permutations.iml" filepath="$PROJECT_DIR$/06-Recursion/Recursion_permutations/Recursion_permutations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11-Graph/_11-Graph.iml" filepath="$PROJECT_DIR$/_11-Graph/_11-Graph.iml" />
     </modules>
   </component>
 </project>
