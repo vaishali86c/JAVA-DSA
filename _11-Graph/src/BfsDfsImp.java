@@ -1,6 +1,6 @@
 import java.util.*;
 
-class AdjMatt {
+class BfsDfsImp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the number of vertices and edges : ");
@@ -32,6 +32,11 @@ class AdjMatt {
 
         System.out.println("BFS Traversal starting from vertex 0:");
         bfs(list, v, 0);
+
+        System.out.println("DFS Traversal starting from vertex 0:");
+        boolean[] visited = new boolean[v];
+        Dfs(list, v, 0, visited);
+        System.out.println();
     }
 
     public static void bfs(LinkedList<Integer>[] list, int v, int start) {
@@ -53,5 +58,16 @@ class AdjMatt {
             }
         }
         System.out.println();
+    }
+
+    public static void Dfs(LinkedList<Integer>[] list, int v, int start, boolean[] visited) {
+        visited[start] = true;
+        System.out.println(start + " ");
+
+        for (int neighbor : list[start]) {
+            if (!visited[neighbor]) {
+                Dfs(list, v, neighbor, visited);
+            }
+        }
     }
 }
